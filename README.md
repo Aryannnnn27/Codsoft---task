@@ -1,1 +1,1 @@
-These are the project i have completed during my Internship at Codsoft.
+These are the projects i have completed during my Internship at Codsoft.
